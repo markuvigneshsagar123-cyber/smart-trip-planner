@@ -1,0 +1,7 @@
+{
+  "name": "Smart Trip Planner",
+  "description": "Efficient travel planning with accurate budget estimations, route calculations, and cost analysis.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
