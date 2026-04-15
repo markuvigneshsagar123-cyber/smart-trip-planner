@@ -1,20 +1,18 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Smart Trip Planner
 
-# Run and deploy your AI Studio app
+This project is a web-based application that helps users plan trips using AI recommendations.
 
-This contains everything you need to run your app locally.
+## 🚀 Run Locally
 
-View your app in AI Studio: https://ai.studio/apps/f5ba3d98-c347-4115-aa68-642f4b8ebb7c
+### Prerequisites
+- Node.js
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
+### Steps
 1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+   npm install
+
+2. Add your API key in .env file:
+   GEMINI_API_KEY=your_key_here
+
 3. Run the app:
-   `npm run dev`
+   npm run dev
